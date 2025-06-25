@@ -1,0 +1,5 @@
+# Ignorar fichero de variables de entorno
+.env
+
+# Ignorar tickets generados
+tickets_*.txt
